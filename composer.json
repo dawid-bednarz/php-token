@@ -1,0 +1,13 @@
+{
+    "name": "dawid-bednarz/php-token",
+    "description": "Base classes for flexible token logic",
+    "type": "lib",
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "DawBed\\PHPToken\\": "lib"
+        }
+    }
+}
